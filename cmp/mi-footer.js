@@ -4,7 +4,7 @@ class MiFooter
     this.innerHTML = /* html */
       `<p>
         &copy; 2022
-        Mendez Romero Angel Yael.
+       Angel Yael Mendez Romero.
       </p>`;
   }
 }
